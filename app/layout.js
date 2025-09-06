@@ -7,7 +7,7 @@ import {
 } from '@clerk/nextjs'
 
 export const metadata = {
-  title: "Welth",
+  title: "Cashly",
   description: "One Stop Finance Platform",
 };
 
